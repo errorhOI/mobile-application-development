@@ -21,7 +21,7 @@ The system applies MVC architecture to separate the application into model, view
 - MVC-based project structure
 - Profile page
 - History page
-- chnage username
+- change username
   
 ## Technologies Used
 - Flutter
