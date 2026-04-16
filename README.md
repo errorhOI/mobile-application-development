@@ -1,5 +1,13 @@
 # Mobile Application Development
 
+##Contributers
+Hoi Wen Han 202330028
+Foong Hao Lim 202330157
+Tan Zenyi 202320091
+Alnaseri Abdulrahman Talal M I202330097
+Tharsshen Govikrishnan 202330160
+
+
 ## Overview
 This project is a team-based mobile application developed using Flutter and Firebase. The application was designed to provide users with a smooth and interactive experience, supported by real-time data storage and structured code organisation.
 
