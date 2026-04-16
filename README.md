@@ -1,4 +1,3 @@
-
 # Mobile Application Development
 
 ## Overview
@@ -18,3 +17,29 @@ The system applies MVC architecture to separate the application into model, view
 - Firebase
 - Dart
 - MVC Architecture
+
+## Project Purpose
+The purpose of this project is to develop a mobile-based application with organised system structure, user-friendly navigation, and real-time backend support through Firebase.
+
+## UI Screenshots
+
+### Screen 1
+![Screen 1](ui_image/Screenshot%202026-04-16%20142829.png)
+
+### Screen 2
+![Screen 2](ui_image/Screenshot%202026-04-16%20142841.png)
+
+### Screen 3
+![Screen 3](ui_image/Screenshot%202026-04-16%20142854.png)
+
+### Screen 4
+![Screen 4](ui_image/Screenshot%202026-04-16%20142905.png)
+
+### Screen 5
+![Screen 5](ui_image/Screenshot%202026-04-16%20142918.png)
+
+### Screen 6
+![Screen 6](ui_image/Screenshot%202026-04-16%20142929.png)
+
+### Screen 7
+![Screen 7](ui_image/Screenshot%202026-04-16%20142941.png)
