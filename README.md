@@ -1,6 +1,6 @@
 # Mobile Application Development
 
-##Contributers
+##Authors
 - Hoi Wen Han 202330028
 - Foong Hao Lim 202330157
 - Tan Zenyi 202320091
