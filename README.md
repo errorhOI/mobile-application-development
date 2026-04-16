@@ -1,11 +1,11 @@
 # Mobile Application Development
 
 ##Contributers
-Hoi Wen Han 202330028
-Foong Hao Lim 202330157
-Tan Zenyi 202320091
-Alnaseri Abdulrahman Talal M I202330097
-Tharsshen Govikrishnan 202330160
+- Hoi Wen Han 202330028
+- Foong Hao Lim 202330157
+- Tan Zenyi 202320091
+- Alnaseri Abdulrahman Talal M I202330097
+- Tharsshen Govikrishnan 202330160
 
 
 ## Overview
